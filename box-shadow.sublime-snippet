@@ -1,9 +1,9 @@
 <snippet>
 	<content><![CDATA[
--o-box-shadow: ${1:offsetX}px ${2:offsetY}px ${3:blur} ${4:color};
--moz-box-shadow: ${1:offsetX}px ${2:offsetY}px ${3:blur} ${4:color};
--webkit-box-shadow: ${1:offsetX}px ${2:offsetY}px ${3:blur} ${4:color};
-box-shadow: ${1:offsetX}px ${2:offsetY}px ${3:blur} ${4:color};
+-o-box-shadow: ${1:offsetX}px, ${2:offsetY}px, ${3:blur}, ${4:color};
+-moz-box-shadow: ${1:offsetX}px, ${2:offsetY}px, ${3:blur}, ${4:color};
+-webkit-box-shadow: ${1:offsetX}px, ${2:offsetY}px, ${3:blur}, ${4:color};
+box-shadow: ${1:offsetX}px, ${2:offsetY}px, ${3:blur}, ${4:color};
 ]]>
 	</content>
 	<tabTrigger>box-shadow</tabTrigger>
