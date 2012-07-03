@@ -1,9 +1,9 @@
 <snippet>
 	<content><![CDATA[
-  -o-border-radius: ${1:radius}px;
-  -moz-border-radius: ${1:radius}px;
-  -webkit-border-radius: ${1:radius}px;
-  border-radius: ${1:radius}px;
+-o-border-radius: ${1:radius}px;
+-moz-border-radius: ${1:radius}px;
+-webkit-border-radius: ${1:radius}px;
+border-radius: ${1:radius}px;
 ]]>
 	</content>
 	<tabTrigger>border-radius</tabTrigger>

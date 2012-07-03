@@ -1,17 +1,17 @@
 <snippet>
   <content><![CDATA[
-  -webkit-border-top-left-radius: ${1:tl}px;
-  -webkit-border-top-right-radius: ${2:tr}px;
-  -webkit-border-bottom-right-radius: ${3:br}px;
-  -webkit-border-bottom-left-radius: ${4:bl}px;
-  -moz-border-radius-topleft: ${1:tl}px;
-  -moz-border-radius-topright: ${2:tr}px;
-  -moz-border-radius-bottomright: ${3:br}px;
-  -moz-border-radius-bottomleft: ${4:bl}px;
-  border-top-left-radius: ${1:tl}px;
-  border-top-right-radius: ${2:tr}px;
-  border-bottom-right-radius: ${3:br}px;
-  border-bottom-left-radius: ${4:bl}px;
+-webkit-border-top-left-radius: ${1:tl}px;
+-webkit-border-top-right-radius: ${2:tr}px;
+-webkit-border-bottom-right-radius: ${3:br}px;
+-webkit-border-bottom-left-radius: ${4:bl}px;
+-moz-border-radius-topleft: ${1:tl}px;
+-moz-border-radius-topright: ${2:tr}px;
+-moz-border-radius-bottomright: ${3:br}px;
+-moz-border-radius-bottomleft: ${4:bl}px;
+border-top-left-radius: ${1:tl}px;
+border-top-right-radius: ${2:tr}px;
+border-bottom-right-radius: ${3:br}px;
+border-bottom-left-radius: ${4:bl}px;
 ]]>
   </content>
   <tabTrigger>border-radius-all</tabTrigger>

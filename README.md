@@ -22,3 +22,8 @@ __Border radius - values for each corner__
 border-radius-all
 ```
 
+__Box shadow__
+```
+box-shadow
+```
+
