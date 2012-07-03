@@ -12,8 +12,13 @@ git clone https://github.com/danielpquinn/sublimetext-css3-snippets.git
 
 ## Tab Triggers
 
-__Border Radius__
+__Border radius__
 ```
 border-radius
+```
+
+__Border radius - values for each corner__
+```
+border-radius-all
 ```
 
