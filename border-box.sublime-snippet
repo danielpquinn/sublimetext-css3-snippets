@@ -1,0 +1,11 @@
+<snippet>
+	<content><![CDATA[
+-moz-box-sizing: border-box;
+-webkit-box-sizing: border-box;
+box-sizing: border-box;
+]]>
+	</content>
+	<tabTrigger>border-box</tabTrigger>
+	<scope>source.css, source.scss</scope>
+	<description>border-box snippet</description>
+</snippet>
