@@ -1,0 +1,13 @@
+<snippet>
+	<content><![CDATA[
+-o-transition: ${1:property} ${2:duration}s ${3:ease};
+-moz-transition: ${1:property} ${2:duration}s ${3:ease};
+-webkit-transition: ${1:property} ${2:duration}s ${3:ease};
+transition: ${1:property} ${2:duration}s ${3:ease};
+]]>
+	</content>
+	<tabTrigger>transition</tabTrigger>
+	<scope>source.css, source.scss</scope>
+	<description>CSS3 transition snippet</description>
+</snippet>
+
